@@ -4,6 +4,8 @@
 
 `Скачиваем choco с https://github.com/chocolatey/choco/releases?ysclid=mixe08bt8a421117967`
 
+`Открываем Power shell от имени администратора`
+
 `Скачиваем Pytchon и Pycarm командой choco install python pycharm-communityedition -y`
 
 `Открываем проект через Projects=>Open=>Наш проект`
